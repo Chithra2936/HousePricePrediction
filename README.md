@@ -12,11 +12,12 @@ The goal is to estimate the price of a house based on these features.
 
 ## 🔗 Project Links
 
-**GitHub Repository:**
-[House Price Prediction](https://github.com/Chithra2936/HousePricePrediction)
+🚀 **Live Demo:**
+[House Price Prediction App](https://housepriceprediction-uk4gscjfplpq8q7fuqugfk.streamlit.app/)
 
-**Live Demo:**
-[Mall Customer Segmentation App](https://mall-customer-segmentation-aux2zx6tvywnpvrvdqtxrd.streamlit.app/)
+💻 **GitHub Repository:**
+[House Price Prediction Repository](https://github.com/Chithra2936/HousePricePrediction)
+
 
 ## Technologies Used
 
