@@ -79,6 +79,9 @@ Run the Streamlit web app:
 ```bash
 streamlit run app.py
 
+Github Link:https://github.com/Chithra2936/HousePricePrediction
+
+Live Demo: https://mall-customer-segmentation-aux2zx6tvywnpvrvdqtxrd.streamlit.app/
 
 ## Conclusion
 
