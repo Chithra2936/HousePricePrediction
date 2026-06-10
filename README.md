@@ -10,6 +10,14 @@ This project predicts house prices using a Linear Regression model. The model is
 
 The goal is to estimate the price of a house based on these features.
 
+## 🔗 Project Links
+
+**GitHub Repository:**
+[House Price Prediction](https://github.com/Chithra2936/HousePricePrediction)
+
+**Live Demo:**
+[Mall Customer Segmentation App](https://mall-customer-segmentation-aux2zx6tvywnpvrvdqtxrd.streamlit.app/)
+
 ## Technologies Used
 
 * Python
