@@ -79,9 +79,12 @@ Run the Streamlit web app:
 ```bash
 streamlit run app.py
 
-🔗 GitHub Repository: https://github.com/Chithra2936/HousePricePrediction
+## Project Links
 
-🔗 Live Demo: https://housepriceprediction-uk4gscjfplpq8q7fuqugfk.streamlit.app/
+🔗 GitHub Repository: [HousePricePrediction](https://github.com/Chithra2936/HousePricePrediction)
+
+🚀 Live Demo: [House Price Prediction App](https://housepriceprediction-uk4gscjfplpq8q7fuqugfk.streamlit.app/)
+
 
 
 ## Conclusion
